@@ -1,0 +1,1 @@
+export const API_URl = 'https://anapioficeandfire.com/api/characters/'
